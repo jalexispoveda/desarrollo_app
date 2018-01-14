@@ -1,0 +1,29 @@
+commit b5481f39ab304f48f10d39e58d703bbd25d073af
+Author: jalexispoveda <jalexispoveda010@gmail.com>
+Date:   Wed Jan 3 19:10:59 2018 -0500
+
+    agregue parrafo 22
+
+commit 43fba6074e5781aedf402b3c808a796d6219a93c
+Author: jalexispoveda <jalexispoveda010@gmail.com>
+Date:   Wed Jan 3 19:06:10 2018 -0500
+
+    agregue parrafo
+
+commit 5bb3fedcea012f06723f0cf34741747190e4fd75
+Author: jalexispoveda <jalexispoveda010@gmail.com>
+Date:   Wed Jan 3 19:04:48 2018 -0500
+
+    sumando nuevo goku
+
+commit 67ab1507bbf942a74a277b25b3537ba16f07b288
+Author: jalexispoveda <jalexispoveda010@gmail.com>
+Date:   Mon Jan 1 20:49:05 2018 -0500
+
+    Agregando el fondo de dbz
+
+commit c5a364270e2df5add172e4e7d8bee2774078b5b3
+Author: jalexispoveda <jalexispoveda010@gmail.com>
+Date:   Mon Jan 1 20:29:20 2018 -0500
+
+    escribi prueba en file
