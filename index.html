@@ -1,23 +1,41 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 	<title>Prueba</title>
 	<style type="text/css">
-		body{
-			margin:0;
-			border:10px solid red;
-		}
-		img{
+		body {
+			margin: 0;
 			max-width: 100%;
 			background-repeat: no-repeat;
 		}
+
+		img {
+			max-width: 100%;
+			background-repeat: no-repeat;
+			/*display:none;*/
+		}
+
+		img#responsive {
+			display: none;
+		}
+
+		@media screen and(max-width: 768px) {
+			img#responsive {
+				display: block;
+			}
+
+		}
 	</style>
 </head>
+
 <body>
+	<img src="carro.png" id="responsive">
 	<img src="dbz.png">
 	<img src="goku.jpg">
 	<p> esto es un parrafo de prueba para el commit</p>
 	<p> esto es un segundo de prueba para el commit</p>
 	<img src="details_open.png">
 </body>
+
 </html>
