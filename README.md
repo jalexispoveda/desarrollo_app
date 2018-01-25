@@ -1,2 +1,3 @@
 # desarrollo_app
-gl
+Jorge Alexis Poveda
+
